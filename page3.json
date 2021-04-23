@@ -1,0 +1,1334 @@
+{
+    "_embedded":{
+       "categories":[
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s245/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s245",
+             "level":0,
+             "name":"GL White wine",
+             "pos_id":"245"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s246/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s246",
+             "level":0,
+             "name":"Btl Red Wine",
+             "pos_id":"246"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s248/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s248",
+             "level":0,
+             "name":"Btl White Wine",
+             "pos_id":"248"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s300/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s300",
+             "level":0,
+             "name":"* Beer Items",
+             "pos_id":"300"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s301/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s301",
+             "level":0,
+             "name":"Beer ",
+             "pos_id":"301"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s400/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s400",
+             "level":0,
+             "name":"* Wine Items",
+             "pos_id":"400"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s402/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s402",
+             "level":0,
+             "name":"Bottled  Wine",
+             "pos_id":"402"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s500/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s500",
+             "level":0,
+             "name":"* Condiment Items",
+             "pos_id":"500"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s501/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s501",
+             "level":0,
+             "name":"Condiment A",
+             "pos_id":"501"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s502/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s502",
+             "level":0,
+             "name":"Condiment B",
+             "pos_id":"502"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s503/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s503",
+             "level":0,
+             "name":"Condiment C",
+             "pos_id":"503"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s504/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s504",
+             "level":0,
+             "name":"Condiment D",
+             "pos_id":"504"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s505/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s505",
+             "level":0,
+             "name":"Condiment E",
+             "pos_id":"505"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s506/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s506",
+             "level":0,
+             "name":"Condiment F",
+             "pos_id":"506"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s507/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s507",
+             "level":0,
+             "name":"Condiment G",
+             "pos_id":"507"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s508/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s508",
+             "level":0,
+             "name":"Condiment H",
+             "pos_id":"508"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s509/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s509",
+             "level":0,
+             "name":"Condiment I",
+             "pos_id":"509"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s510/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s510",
+             "level":0,
+             "name":"Condiment J",
+             "pos_id":"510"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s511/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s511",
+             "level":0,
+             "name":"Condiment K",
+             "pos_id":"511"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s512/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s512",
+             "level":0,
+             "name":"Condiment L",
+             "pos_id":"512"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s513/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s513",
+             "level":0,
+             "name":"Condiment M",
+             "pos_id":"513"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s514/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s514",
+             "level":0,
+             "name":"Condiment N",
+             "pos_id":"514"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s515/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s515",
+             "level":0,
+             "name":"Condiment O",
+             "pos_id":"515"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s516/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s516",
+             "level":0,
+             "name":"Condiment P",
+             "pos_id":"516"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s517/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s517",
+             "level":0,
+             "name":"Condiment Q",
+             "pos_id":"517"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s518/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s518",
+             "level":0,
+             "name":"Condiment R",
+             "pos_id":"518"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s519/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s519",
+             "level":0,
+             "name":"Condiment S",
+             "pos_id":"519"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s520/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s520",
+             "level":0,
+             "name":"Condiment T",
+             "pos_id":"520"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s521/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s521",
+             "level":0,
+             "name":"Condiment U",
+             "pos_id":"521"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s522/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s522",
+             "level":0,
+             "name":"Condiment V",
+             "pos_id":"522"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s523/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s523",
+             "level":0,
+             "name":"Condiment W",
+             "pos_id":"523"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s524/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s524",
+             "level":0,
+             "name":"Condiment X-Z",
+             "pos_id":"524"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s525/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s525",
+             "level":0,
+             "name":null,
+             "pos_id":"525"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s600/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s600",
+             "level":0,
+             "name":"* Misc Items",
+             "pos_id":"600"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s601/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s601",
+             "level":0,
+             "name":"Open Items",
+             "pos_id":"601"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s602/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s602",
+             "level":0,
+             "name":"Cigars",
+             "pos_id":"602"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s603/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s603",
+             "level":0,
+             "name":"Mondays",
+             "pos_id":"603"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s604/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s604",
+             "level":0,
+             "name":"\u00c0 la Carte",
+             "pos_id":"604"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s801/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s801",
+             "level":0,
+             "name":" ",
+             "pos_id":"801"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s803/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s803",
+             "level":0,
+             "name":" ",
+             "pos_id":"803"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s804/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s804",
+             "level":0,
+             "name":null,
+             "pos_id":"804"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s805/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s805",
+             "level":0,
+             "name":null,
+             "pos_id":"805"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s806/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s806",
+             "level":0,
+             "name":null,
+             "pos_id":"806"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s807/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s807",
+             "level":0,
+             "name":null,
+             "pos_id":"807"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s808/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s808",
+             "level":0,
+             "name":null,
+             "pos_id":"808"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s809/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s809",
+             "level":0,
+             "name":null,
+             "pos_id":"809"
+          },
+          {
+             "_embedded":{
+                "menu_category_type":{
+                   "_links":{
+                      "self":{
+                         "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                         "type":"application/hal+json; name=menu_category_type"
+                      }
+                   },
+                   "id":"slu",
+                   "name":"Screen Lookup"
+                }
+             },
+             "_links":{
+                "menu_category_type":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/category_types/slu/",
+                   "type":"application/hal+json; name=menu_category_type"
+                },
+                "self":{
+                   "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/s810/",
+                   "type":"application/hal+json; name=menu_category"
+                }
+             },
+             "id":"s810",
+             "level":0,
+             "name":null,
+             "pos_id":"810"
+          }
+       ]
+    },
+    "_links":{
+       "prev":{
+          "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/?limit=50&start=50",
+          "type":"application/hal+json; name=menu_category_list"
+       },
+       "self":{
+          "href":"https://api.omnivore.io/1.0/locations/iMEy8xgT/menu/categories/?limit=50&start=100",
+          "type":"application/hal+json; name=menu_category_list"
+       }
+    },
+    "count":47,
+    "limit":50
+ }
